@@ -59,11 +59,12 @@ console.log(result)
 
 
 Q:-If you like to filter out one object element in an array which method do you like to use: filter or find ?
-Ans:- I like to use find() method because the find() method returns the first element in array that satisfies the provided testing function and the filter() method returns all the array element that satisfies the provided testing function. 
+Ans:- I like to use find() method because the find() method returns the first element in array that satisfies the provided testing function and
+ the filter() method returns all the array element that satisfies the provided testing function. 
 
 
 Difference between var, let and const:-
 
 var :- it is used for declaring a variable. Before ES6(2015) version var is used for declare as a variable. it is a global scope variable.
-let :- let is introduce and implement ES6(2015) version. it is also block scope variable. it onle accessible in the block scope which block scope it is declare. it not accessible outside of this block. 
-const:- it also used to define a variable. it can not mutate once it is define. it also a block scope variable  
+let :- let is introduce and implement ES6(2015) version. it is also block scope variable. let is  only accessible in the block scope . It is not accessible outside of the block.It cannot be redeclare but we can update the value. 
+const:- It also used to define a variable. It can not mutate or copy once it is define. It is  also a block scope variable and It cannot be redeclare and updated .
