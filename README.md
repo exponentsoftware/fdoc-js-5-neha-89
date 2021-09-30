@@ -2,7 +2,7 @@
 1. Use the countries API to fetch data about countries. (5 pt)
 
       ```js
-      const API_URL = 'https://restcountries.eu/rest/v2/all'
+      const API_URL = ' https://restcountries.com/v3/all '
       ```
 
     Use the countries API to fetch data about countries.
